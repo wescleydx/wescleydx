@@ -7,7 +7,6 @@ Me chamo Wescley, sou um profissional na área da Segurança da Informação e n
 - 💻 Desenvolvedor Back-End 
 
 <br/>
-<br/>
 
 ## 👨‍💻 Linguagens e Tecnologias
 
@@ -33,8 +32,10 @@ Me chamo Wescley, sou um profissional na área da Segurança da Informação e n
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devtest1822)
 
 <br/>
-<br/>
 
 ## 📊 GitHub Stats
-
-![wescleydx GitHub stats](https://github-readme-stats.vercel.app/api?username=wescleydx&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wescleydx&hide_progress=false&theme=radical)
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wescleydx&show_icons=true&theme=radical" width="525">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescleydx&hide_progress=false&theme=radical" width="400">
+</p>
